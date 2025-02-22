@@ -155,7 +155,7 @@ npm run dev
 
 ## Demo Video
 You can watch the demo video here:
-[Demo Video]([](https://drive.google.com/file/d/1_prxz1AYiS5h-CUEdYV2U3Jvl8wgUOtH/view?usp=sharing))
+[Demo Video]([https://drive.google.com/file/d/1_prxz1AYiS5h-CUEdYV2U3Jvl8wgUOtH/view?usp=sharing])
 
 
 ## Contributing
