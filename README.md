@@ -153,11 +153,16 @@ npm run dev
 - Returns `404 Not Found` if no answer is found.
 - Displays user-friendly error messages on the frontend.
 
+## Demo Video
+You can watch the demo video here:
+[Demo Video](./assets/demo.webm)
+
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements.
 
 ## License
 This project is licensed under the MIT License.
+
 
 ## Creator
 Deepanshu Chauhan deepanshuchauhan483@gmail.com
