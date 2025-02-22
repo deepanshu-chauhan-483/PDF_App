@@ -155,7 +155,7 @@ npm run dev
 
 ## Demo Video
 You can watch the demo video here:
-[Demo Video](./frontend/assets/demo.webm)
+[Demo Video](./frontend/src/assets/demo.webm)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements.
